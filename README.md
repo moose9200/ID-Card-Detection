@@ -5,5 +5,6 @@ We want to build a visitor sign-in system (visitor sign-in system) for company r
 This system takes a photo of the Visitor's Photo ID card by a tablet placed on the reception and extracts the following information to identify the visitor.
 
 
-- upload the ID image on your google drive, connect the drive and set the path of the image and run the notebook.
+- before running the notebook ake sure you upload the ID image on your google drive, connect the drive and set the path of the image.
+- 
 
