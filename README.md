@@ -6,5 +6,4 @@ This system takes a photo of the Visitor's Photo ID card by a tablet placed on t
 
 
 - before running the notebook ake sure you upload the ID image on your google drive, connect the drive and set the path of the image.
-- 
 
